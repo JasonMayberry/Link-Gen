@@ -1,0 +1,2772 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>jQuery UI Autocomplete - Default functionality</title>
+  <link rel="stylesheet" href="jquery-ui.css">
+  <script src="jquery-1.9.1.js"></script>
+  <script src="jquery-ui.js"></script>
+  <link rel="stylesheet" href="style.css">
+  <script>
+  $(function() {
+
+   var availableTags = [
+    {
+      label:"01", the_link:"https://www.pdrfinessetools.com/Finesse?product_id=451"
+    },
+
+    {
+      label:"02", the_link:"https://www.pdrfinessetools.com/Finesse?product_id=290"
+    },
+
+    {
+      label:"03", the_link:"https://www.pdrfinessetools.com/Finesse?product_id=197"
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+    {
+      label:"", the_link:""
+    },
+
+
+    ];
+
+    $( "#tags" ).autocomplete({
+      source: availableTags,
+      select:function(e,ui) { 
+      location.href = ui.item.the_link;
+    //  console.log(ui.item.the_link);
+      }
+    });
+});
+  </script>
+</head>
+<body>
+ 
+<div class="ui-widget">
+  <label for="tags">Tags: </label>
+  <input id="tags">
+</div>
+ 
+ 
+</body>
+</html>
