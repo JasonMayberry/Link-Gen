@@ -1,0 +1,2274 @@
+product_id: ..... 49
+model: .......... set-jp
+Name: ........... Jerry Powell Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=49
+
+
+product_id: ..... 51
+model: .......... 121
+Name: ........... #121- 8&quot; Long Whale Tail with 1 3/8&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=51
+
+
+product_id: ..... 52
+model: .......... 124
+Name: ........... #124- 8&quot; Long Whale Tail with 1/2&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=52
+
+
+product_id: ..... 53
+model: .......... 123
+Name: ........... #123- 8&quot; Long Whale Tail with 3/4&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=53
+
+
+product_id: ..... 54
+model: .......... 118
+Name: ........... #118- 18&quot; Long Whale Tail with 1 1/8&quot; Wide Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=54
+
+
+product_id: ..... 55
+model: .......... 117
+Name: ........... #117- 18&quot; Long Whale Tail with 1 3/8&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=55
+
+
+product_id: ..... 56
+model: .......... 120
+Name: ........... #120- 18&quot; Long Whale Tail with 1/2&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=56
+
+
+product_id: ..... 57
+model: .......... 119
+Name: ........... #119- 18&quot; Long Whale Tail with 3/4&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=57
+
+
+product_id: ..... 59
+model: .......... 72
+Name: ........... #72-  17&quot; Long 1/4&quot; Diameter 90°  Sharp Tip Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=59
+
+
+product_id: ..... 60
+model: .......... 89p
+Name: ........... #89p-  5 1/2&quot; Long 3/16&quot; Diameter 15°  Raised Flag Set Welded Pistol Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=60
+
+
+product_id: ..... 61
+model: .......... 34
+Name: ........... #34 - 9&quot; Long 1/4&quot; Diameter 45°  Flag with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=61
+
+
+product_id: ..... 62
+model: .......... 30a
+Name: ........... #30a -  9&quot; Long 1/4&quot; Diameter Tapered Ball Tip with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=62
+
+
+product_id: ..... 63
+model: .......... 88p
+Name: ........... #88p-  9&quot; Long 3/16&quot; Diameter 15°  Raised Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=63
+
+
+product_id: ..... 65
+model: .......... 87p
+Name: ........... #87p-  12&quot; Long 3/16&quot; Diameter 15°  Raised Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=65
+
+
+product_id: ..... 66
+model: .......... 96
+Name: ........... #96-  6 3/16&quot; Long 1/4&quot; Diameter Pick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=66
+
+
+product_id: ..... 67
+model: .......... 33a
+Name: ........... #33a-   11 &quot; Long 1/4&quot; Diameter Shaved 45°  Flag with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=67
+
+
+product_id: ..... 68
+model: .......... 86p
+Name: ........... #86p-  16&quot; Long 3/16&quot; Diameter 15°  Raised Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=68
+
+
+product_id: ..... 69
+model: .......... 24a
+Name: ........... #24a - 11&quot; Long 1/4&quot; Diameter Shaved Slow Bend with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=69
+
+
+product_id: ..... 70
+model: .......... 80p
+Name: ........... #80p-  11&quot; Long 1/4&quot; Diameter 45°  Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=70
+
+
+product_id: ..... 71
+model: .......... 84p
+Name: ........... #84p-  8 1/2&quot; Long 3/16&quot; Diameter 15°  Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=71
+
+
+product_id: ..... 72
+model: .......... 61
+Name: ........... #61-  12&quot; Long 1/4&quot; Diameter Double Bend Round Tapered
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=72
+
+
+product_id: ..... 73
+model: .......... 65
+Name: ........... #65 - 12 1/2&quot; Long 1/4&quot; Diameter Bendable Johnson
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=73
+
+
+product_id: ..... 74
+model: .......... 75
+Name: ........... #75-  7&quot; Long 3/16&quot; Diameter 90°  Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=74
+
+
+product_id: ..... 75
+model: .......... 168w
+Name: ........... #168w  - 12&quot; Long 1/4&quot; Diameter Upper Brace Door Tools Right and Left Pair Set with Welded Handles
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=75
+
+
+product_id: ..... 76
+model: .......... 74
+Name: ........... #74-  11&quot; Long 3/16&quot; Diameter 45°  Sharp Tip Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=76
+
+
+product_id: ..... 77
+model: .......... 68
+Name: ........... #68- 35&quot; Long 1/4&quot; Diameter Shaved 75°  Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=77
+
+
+product_id: ..... 78
+model: .......... 71
+Name: ........... #71 - 12&quot; Long 3/16&quot; Diameter 45° Tapered Point
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=78
+
+
+product_id: ..... 79
+model: .......... 73
+Name: ...........  #73-  11&quot; Long 3/16&quot; Diameter 90°  Bend Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=79
+
+
+product_id: ..... 80
+model: .......... 100
+Name: ........... #100 - 6 1/2&quot; Long 1/4&quot; Diameter Hail Pistol
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=80
+
+
+product_id: ..... 81
+model: .......... 78p
+Name: ........... #78p-  13&quot; Long 3/16&quot; Diameter Double Bend Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=81
+
+
+product_id: ..... 82
+model: .......... 23a
+Name: ........... #23a - 23&quot; Long 1/4&quot; Diameter Shaved 40°  Slow Bend Sharp Tip with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=82
+
+
+product_id: ..... 83
+model: .......... 150
+Name: ........... #150 - 14&quot; Long 1/4&quot; Diameter Double Bend Shaved
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=83
+
+
+product_id: ..... 84
+model: .......... 60
+Name: ........... #60- 15 1/2&quot; Long 1/4&quot; Diameter 45°  Universal Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=84
+
+
+product_id: ..... 85
+model: .......... 95
+Name: ........... #95-  12&quot; Long 1/4&quot; Diameter Inline Pick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=85
+
+
+product_id: ..... 86
+model: .......... 59
+Name: ........... #59 - 16 1/2&quot; Long 1/4&quot; Diameter 70°  Bend
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=86
+
+
+product_id: ..... 87
+model: .......... 58
+Name: ........... #58 - 17&quot; Long 1/4&quot; Diameter Double Bend Ball Tip
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=87
+
+
+product_id: ..... 88
+model: .......... 83p
+Name: ........... #83p-  13&quot; Long 3/16&quot; Diameter 15°  Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=88
+
+
+product_id: ..... 89
+model: .......... 77p
+Name: ........... #77p-  16&quot; Long 1/4&quot; Diameter Double Bend Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=89
+
+
+product_id: ..... 90
+model: .......... 57w
+Name: ........... #57w- 16 1/2&quot; Long 1/4&quot; Diameter Double Bend Shaved
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=90
+
+
+product_id: ..... 91
+model: .......... 69
+Name: ........... #69- 19&quot; Long 1/4&quot; Diameter Shaved 75°  Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=91
+
+
+product_id: ..... 92
+model: .......... 82p
+Name: ........... #82p-  16&quot; Long 3/16&quot; Diameter 45°  Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=92
+
+
+product_id: ..... 93
+model: .......... 70
+Name: ........... #70-  18&quot; Long 1/4&quot; Diameter Shaved 45°  Kick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=93
+
+
+product_id: ..... 94
+model: .......... 90
+Name: ........... #90-  16 1/2&quot; Long 3/16&quot; Diameter 50°  Flag Welded T Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=94
+
+
+product_id: ..... 95
+model: .......... 32p
+Name: ........... #32p-   22 1/4&quot; Long 1/4&quot; Diameter Sharp Tip Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=95
+
+
+product_id: ..... 96
+model: .......... 22p
+Name: ........... #22p - 11&quot; Long 5/16&quot; Diameter Slow Bend Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=96
+
+
+product_id: ..... 97
+model: .......... 32a
+Name: ........... #32a -   23&quot; Long 1/4&quot; Diameter Shaved 40°  Flag with adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=97
+
+
+product_id: ..... 98
+model: .......... 22a
+Name: ........... #22 - 11&quot; Long 5/16&quot; Diameter Slow Bend Shaved with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=98
+
+
+product_id: ..... 99
+model: .......... 23p
+Name: ........... #23p-   23&quot; Long 1/4&quot; Diameter Shaved Slow Bend Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=99
+
+
+product_id: ..... 100
+model: .......... 106
+Name: ........... #106- 26&quot; Long 1/4&quot; Diameter Shaved 80°  Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=100
+
+
+product_id: ..... 101
+model: .......... 41a
+Name: ........... #41a-   14&quot; Long 5/16&quot; Diameter 70°  Shaved Sharp Tip with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=101
+
+
+product_id: ..... 102
+model: .......... 101
+Name: ........... #101 - 3&quot; Long 1/4&quot; Diameter Hail Pistol
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=102
+
+
+product_id: ..... 103
+model: .......... set-Ike Rhoades Signature Series
+Name: ........... Ike Rhoades Signature Series
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=103
+
+
+product_id: ..... 104
+model: .......... 81p
+Name: ........... #81p-  7&quot; Long 1/4&quot; Diameter 15°  Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=104
+
+
+product_id: ..... 105
+model: .......... 29a
+Name: ........... #29a - 17 1/2&quot; Long 5/16&quot; Diameter 45°  Tappered Round Tip with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=105
+
+
+product_id: ..... 110
+model: .......... 40
+Name: ........... #40-   20&quot; Long 3/8&quot; Diameter Shaved Slow Bend with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=110
+
+
+product_id: ..... 111
+model: .......... 37
+Name: ........... #37 - 20&quot; Long 5/16&quot; Diameter Double Bend Shaved J with a reverse adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=111
+
+
+product_id: ..... 112
+model: .......... 136
+Name: ........... #136- 21 3/4&quot; Long 3/8&quot; Diameter Slow Tapered Shaved Bend with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=112
+
+
+product_id: ..... 113
+model: .......... 48a
+Name: ........... #48a - 20&quot; Long 5/16&quot; Diameter Buddy Tool with an Adjustable T Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=113
+
+
+product_id: ..... 114
+model: .......... 56w
+Name: ........... #56w- 22&quot; Long 3/8&quot; Diameter Double Bend Shaved Knife Tip
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=114
+
+
+product_id: ..... 116
+model: .......... 94
+Name: ........... #94-  20&quot; Long 5/16&quot; Diameter Inline Pick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=116
+
+
+product_id: ..... 117
+model: .......... 146sa
+Name: ........... #146sa - 23&quot; Long 5/16&quot; Diameter Double Bend Shaved with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=117
+
+
+product_id: ..... 118
+model: .......... 54w
+Name: ........... #54w - 23&quot; Long 3/8&quot; Diameter Double Bend Changeable Tip
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=118
+
+
+product_id: ..... 119
+model: .......... 21a
+Name: ...........  #21a - 23&quot; Long 5/16&quot; Diameter 40°  Slow Bend Shaved with adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=119
+
+
+product_id: ..... 120
+model: .......... 38a
+Name: ........... #38a - 25&quot; Long 3/8&quot; Diameter Double Bend Tapered Ball Tip with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=120
+
+
+product_id: ..... 121
+model: .......... 76p
+Name: ........... #76p-  22&quot; Long 5/16&quot; Diameter Double Bend Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=121
+
+
+product_id: ..... 122
+model: .......... 42
+Name: ........... #42-  27&quot; Long 3/8&quot; Diameter Hockey Stick with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=122
+
+
+product_id: ..... 123
+model: .......... 39a
+Name: ........... #39a -   27&quot; Long 3/8&quot; Diameter Slow 75°   Bend with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=123
+
+
+product_id: ..... 125
+model: .......... 36
+Name: ........... #36 - The Ultimate Door Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=125
+
+
+product_id: ..... 126
+model: .......... 28a
+Name: ........... #28a - 25&quot; Long 5/16&quot; Diameter Tapered 45°  Sharp Tip with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=126
+
+
+product_id: ..... 127
+model: .......... 164w
+Name: ........... #164w - 26&quot; Long 5/16&quot; Diameter  5&quot; of 45 Degree Kickback
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=127
+
+
+product_id: ..... 128
+model: .......... 146a
+Name: ........... #146a - 29&quot; Long 3/8&quot; Diameter Double Bend Shaved with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=128
+
+
+product_id: ..... 129
+model: .......... 164a
+Name: ........... #164a - 26&quot; Long 5/16&quot; Diameter  5&quot; of 45 degree Kick with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=129
+
+
+product_id: ..... 130
+model: .......... 51
+Name: ........... #51 - 27&quot; Long 3/8&quot; Diameter Shaved Slow Bend
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=130
+
+
+product_id: ..... 131
+model: .......... 137
+Name: ........... #137- 29&quot; Long 3/8&quot; Diameter Slow Bend Tapered &amp; Shaved with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=131
+
+
+product_id: ..... 132
+model: .......... 27a
+Name: ........... #27a - 30&quot; Long 5/16&quot; Diameter Double Bend Shaved with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=132
+
+
+product_id: ..... 133
+model: .......... 55
+Name: ........... #55- 35&quot; Long 5/16&quot; Diameter Double Bend
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=133
+
+
+product_id: ..... 134
+model: .......... 44a
+Name: ........... #44a- 25&quot; Long 3/8&quot; Diameter Buddy Tool with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=134
+
+
+product_id: ..... 135
+model: .......... 62
+Name: ........... #62- 30&quot; Long 3/8&quot; Diameter Bendable Johnson
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=135
+
+
+product_id: ..... 136
+model: .......... 108
+Name: ........... #108- 35&quot; Long 3/8&quot; Diameter Double Bend Shaved
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=136
+
+
+product_id: ..... 137
+model: .......... 107a
+Name: ........... #107a - 34&quot; Long 3/8&quot; Diameter Double Bend Shaved with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=137
+
+
+product_id: ..... 139
+model: .......... 19
+Name: ........... #19-   35&quot; Long 3/8&quot; Diameter Single Bend 1 1/2&quot; Kick with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=139
+
+
+product_id: ..... 141
+model: .......... 148
+Name: ........... #148 - 44 1/2&quot; Long 3/8&quot; Diameter Double Bend Shaved with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=141
+
+
+product_id: ..... 142
+model: .......... 35
+Name: ........... #35-   45 1/2&quot; Long 3/8&quot; Diameter Shaved X-Caliber with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=142
+
+
+product_id: ..... 163
+model: .......... 63w
+Name: ........... #63w - 39&quot; Long 3/8&quot; Diameter 45°  Flag Shaved and Rounded
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=163
+
+
+product_id: ..... 167
+model: .......... 143a
+Name: ........... #143a - 23&quot; Long 7/16&quot; Diameter Fender Tool with adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=167
+
+
+product_id: ..... 170
+model: .......... 52w
+Name: ........... #52w-   30&quot; Long 7/16&quot; Diameter Double Bend Changeable Tip Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=170
+
+
+product_id: ..... 171
+model: .......... 20a
+Name: ........... #20a-   34&quot; Long 7/16&quot; Diameter Slow Bend, Shaved, Rounded Tip with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=171
+
+
+product_id: ..... 173
+model: .......... 18
+Name: ........... #18 - 34&quot; Long 7/16&quot; Diameter Single Bend Shaved Flag with an Adjustable T Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=173
+
+
+product_id: ..... 174
+model: .......... 93w
+Name: ........... #93w - 38&quot; Long 7/16&quot; Diameter Double Bend Shaved Welded T Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=174
+
+
+product_id: ..... 175
+model: .......... 26
+Name: ........... #26-   40&quot; Long 7/16&quot; Diameter Double Bend Shaved with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=175
+
+
+product_id: ..... 176
+model: .......... 92w
+Name: ........... #92-  48&quot; Long 7/16&quot; Diameter Double Bend Shaved Welded T Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=176
+
+
+product_id: ..... 177
+model: .......... 25
+Name: ........... #25 - 55&quot; Long 7/16&quot; Diameter Double Bend Shaved  with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=177
+
+
+product_id: ..... 178
+model: .......... 104
+Name: ........... #104 - 14&quot; Long 1/2&quot; Diameter Head Blending Hammer
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=178
+
+
+product_id: ..... 179
+model: .......... 07
+Name: ........... #07-  27&quot; Long 1/2&quot; Diameter Double Bend Rod
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=179
+
+
+product_id: ..... 180
+model: .......... 140w
+Name: ........... #140w - 26&quot; Long 1/2&quot; Diameter Double Bend Shaved Ball Tip
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=180
+
+
+product_id: ..... 181
+model: .......... 14
+Name: ........... #14-  29&quot; Long 1/2&quot; Diameter Double Bend Shaved
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=181
+
+
+product_id: ..... 182
+model: .......... 12
+Name: ........... #12-  34&quot; Long 1/2&quot; Diameter Double Bend Shaved
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=182
+
+
+product_id: ..... 183
+model: .......... 04
+Name: ........... #04 - 38&quot; Long 1/2&quot; Diameter 70°  Bend, 2 1/2&quot; kick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=183
+
+
+product_id: ..... 184
+model: .......... 152
+Name: ........... #152 - 41&quot; Long 1/2&quot; Diameter Slow Bend Shaved with Sharp Tip
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=184
+
+
+product_id: ..... 185
+model: .......... 17
+Name: ........... #17-   41&quot; Long 1/2&quot; Diameter Slow Bend, Round Tip with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=185
+
+
+product_id: ..... 186
+model: .......... 13
+Name: ........... #13-  44&quot; Long 1/2&quot; Diameter Double Bend Shaved
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=186
+
+
+product_id: ..... 187
+model: .......... 11
+Name: ........... #11-  48&quot; Long 1/2 &quot; Diameter Double Bend Shaved
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=187
+
+
+product_id: ..... 188
+model: .......... 16
+Name: ........... #16 - 48&quot; Long 1/2&quot; Diameter Slow Bend Round Tip with an adjustable T handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=188
+
+
+product_id: ..... 191
+model: .......... 05
+Name: ........... #05 - 48&quot; Long 9/16&quot; Diameter Triple Bend
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=191
+
+
+product_id: ..... 192
+model: .......... 06
+Name: ........... #06-  49&quot; Long 9/16&quot; Diameter Double Bend
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=192
+
+
+product_id: ..... 194
+model: .......... 08
+Name: ........... #08 - 52&quot; Long 9/16&quot; Diameter Slow Bend Shaved
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=194
+
+
+product_id: ..... 195
+model: .......... 15a
+Name: ........... #15a - 52&quot; Long 9/16&quot; Diameter, Slow Bend, Tappered Round Tip with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=195
+
+
+product_id: ..... 197
+model: .......... 03
+Name: ........... #03 - 49 1/2&quot; Long 5/8&quot; Diameter 70°  Kick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=197
+
+
+product_id: ..... 199
+model: .......... set-4rwtset
+Name: ........... 3&quot; Long Turned Back Whale Tail Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=199
+
+
+product_id: ..... 200
+model: .......... set-mtset
+Name: ........... Mark Tsurkis Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=200
+
+
+product_id: ..... 201
+model: .......... set-154-155-156
+Name: ........... Set of 3 Slow Bend Hand Tools
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=201
+
+
+product_id: ..... 203
+model: .......... set-990
+Name: ........... #990  Slide Hammer and D-Man T Glue Puller Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=203
+
+
+product_id: ..... 204
+model: .......... 113
+Name: ........... #113- 30&quot; Long Whale Tail with 1 3/8&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=204
+
+
+product_id: ..... 205
+model: .......... 116
+Name: ........... #116- 30&quot; Long Whale Tail with 1/2&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=205
+
+
+product_id: ..... 206
+model: .......... 115
+Name: ........... #115- 30&quot; Long Whale Tail with 3/4&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=206
+
+
+product_id: ..... 207
+model: .......... 132a
+Name: ........... #132a- 3&quot; Long Turned Back Whale Tail with 1 1/8&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=207
+
+
+product_id: ..... 208
+model: .......... 132
+Name: ........... #132- 3&quot; Long Turned Back Whale Tail with 1 3/8&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=208
+
+
+product_id: ..... 209
+model: .......... 134
+Name: ........... #134 - 3&quot; Long Turned Back Whale Tail with 1/2&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=209
+
+
+product_id: ..... 210
+model: .......... 133
+Name: ........... #133 - 3&quot; Long Turned Back Whale Tail with 3/4&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=210
+
+
+product_id: ..... 211
+model: .......... 111
+Name: ........... #111- 36&quot; Long Whale Tail with 1 1/8&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=211
+
+
+product_id: ..... 212
+model: .......... 110
+Name: ........... #110- 36&quot; Long Whale Tail with 1 3/8&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=212
+
+
+product_id: ..... 213
+model: .......... 112
+Name: ........... #112- 36&quot; Long Whale Tail with 3/4&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=213
+
+
+product_id: ..... 215
+model: .......... 129
+Name: ........... #129- 3 1/2&quot; Long Whale Tail with 1 1/8&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=215
+
+
+product_id: ..... 216
+model: .......... 131
+Name: ........... #131- 3&quot; Long Whale Tail with 1/2&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=216
+
+
+product_id: ..... 217
+model: .......... 130
+Name: ........... #130- 3 1/2&quot; Long Whale Tail with 3/4&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=217
+
+
+product_id: ..... 219
+model: .......... 126
+Name: ........... #126- 6&quot; Long Whale Tail with 1 3/8&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=219
+
+
+product_id: ..... 220
+model: .......... 128
+Name: ........... #128- 6&quot; Long Whale Tail with 1/2&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=220
+
+
+product_id: ..... 221
+model: .......... 127
+Name: ........... #127- 6&quot; Long Whale Tail with 3/4&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=221
+
+
+product_id: ..... 222
+model: .......... 103
+Name: ........... #103-  DMan T Glue Puller
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=222
+
+
+product_id: ..... 224
+model: .......... 147
+Name: ........... #147- Stainless Steel Mtg. Brackets Set of 2
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=224
+
+
+product_id: ..... 225
+model: .......... 138
+Name: ........... #138-  14 1/4&quot; Long Flat 1/2&quot; Wide 45°  Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=225
+
+
+product_id: ..... 227
+model: .......... 165
+Name: ........... #165 - 2 3/4&quot; Long Raised Hail Pistol
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=227
+
+
+product_id: ..... 228
+model: .......... 109
+Name: ........... #109- 4&quot; Long Old Dent Wizard Hand Spoon
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=228
+
+
+product_id: ..... 229
+model: .......... 166
+Name: ........... #166- 4 3/4&quot; Long Raised Hail Pistol
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=229
+
+
+product_id: ..... 231
+model: .......... 167
+Name: ........... #167 - 4&quot; Long Raised Hand Spoon
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=231
+
+
+product_id: ..... 233
+model: .......... 98
+Name: ........... #98-  Medium Tip Hand Ball Pusher
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=233
+
+
+product_id: ..... 234
+model: .......... 99
+Name: ........... #99-  Round Tip Hand Ball Pusher
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=234
+
+
+product_id: ..... 235
+model: .......... 97
+Name: ........... #97-  Sharp Tip Hand Ball Pusher
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=235
+
+
+product_id: ..... 238
+model: .......... 85p
+Name: ........... #85p-  5 1/2&quot; Long 3/16&quot; Diameter 45°  Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=238
+
+
+product_id: ..... 239
+model: .......... 122
+Name: ........... #122- 8&quot; Long Whale Tail with 1 1/8&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=239
+
+
+product_id: ..... 241
+model: .......... 114
+Name: ........... #114- 30&quot; Long Whale Tail with 1 1/8&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=241
+
+
+product_id: ..... 242
+model: .......... 125
+Name: ........... #125-  6&quot; Long Whale Tail with 1 1/8&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=242
+
+
+product_id: ..... 243
+model: .......... set-Starter
+Name: ........... Starter Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=243
+
+
+product_id: ..... 244
+model: .......... 31
+Name: ........... #31 - Gutter Hook
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=244
+
+
+product_id: ..... 246
+model: .......... 09
+Name: ........... #09 - 72&quot; Long 3/4&quot; Flip Tip Roof Rod
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=246
+
+
+product_id: ..... 247
+model: .......... 153
+Name: ........... #153 - 3&quot; Long Whale Tail with 1 3/8&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=247
+
+
+product_id: ..... 251
+model: .......... 172
+Name: ........... #172 - 60&quot; Long  5/8&quot; Diameter Double Bend Bed Side Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=251
+
+
+product_id: ..... 252
+model: .......... 171
+Name: ........... #171 - 91&quot; Long 5/8&quot; Diameter Double Bend Bed Side Tool with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=252
+
+
+product_id: ..... 253
+model: .......... 170
+Name: ........... #170 - 110&quot; Long 5/8&quot; Diameter Double Bend Bed Side Tool with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=253
+
+
+product_id: ..... 256
+model: .......... 18mt
+Name: ........... #18mt-   18&quot; Long 5/16&quot; Diameter Slow Bend Sharp Tip
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=256
+
+
+product_id: ..... 267
+model: .......... 102
+Name: ........... #102-  Slide Hammer
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=267
+
+
+product_id: ..... 268
+model: .......... tip-PST
+Name: ........... Plastic Tool Tip Sharp Point
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=268
+
+
+product_id: ..... 269
+model: .......... tip-PBB
+Name: ........... Plastic Tip BB
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=269
+
+
+product_id: ..... 271
+model: .......... tip-ss
+Name: ........... 3/8&quot; Diameter Steel Tool Tip Sharp
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=271
+
+
+product_id: ..... 272
+model: .......... tip-smb
+Name: ........... Steel Tip SMB
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=272
+
+
+product_id: ..... 273
+model: .......... tip-sr
+Name: ........... Steel Ball Tip with Rubber Cap
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=273
+
+
+product_id: ..... 275
+model: .......... door-Jammer
+Name: ........... Door Jammer
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=275
+
+
+product_id: ..... 276
+model: .......... Ratchet-Strap
+Name: ........... Ratchet Strap
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=276
+
+
+product_id: ..... 277
+model: .......... wg-plastic
+Name: ........... Heavy-duty Plastic Window Guard
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=277
+
+
+product_id: ..... 279
+model: .......... hood-Prop
+Name: ........... Hood Prop
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=279
+
+
+product_id: ..... 281
+model: .......... glue-gun-110v
+Name: ........... 110v Glue Gun
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=281
+
+
+product_id: ..... 282
+model: .......... door-strap-Black
+Name: ........... Black Door Strap
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=282
+
+
+product_id: ..... 283
+model: .......... kd-PB29A
+Name: ........... Plastic Knockdown with Magnet
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=283
+
+
+product_id: ..... 284
+model: .......... kd-bullet knockdown
+Name: ........... Stainless Steel Bullet Knockdown
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=284
+
+
+product_id: ..... 285
+model: .......... hammer-Mallet
+Name: ........... Mallet
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=285
+
+
+product_id: ..... 286
+model: .......... 104IT
+Name: ........... #104 IT - Changeable Tip Blending Hammer
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=286
+
+
+product_id: ..... 287
+model: .......... 168a
+Name: ........... #168a - 12&quot; Long 1/4&quot; Diameter Upper Brace Door Tools Right and Left Pair Set with Adjustable Handles
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=287
+
+
+product_id: ..... 288
+model: .......... 35MR
+Name: ........... #35mr -  44 1/2&quot; Long 3/8&quot; Diameter 70 degree &quot;Marty Runik&quot; X-Caliber with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=288
+
+
+product_id: ..... 289
+model: .......... 24p
+Name: ........... #24p - 10&quot; Long Thin Flag Set with 2 1/4&quot; of Kick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=289
+
+
+product_id: ..... 290
+model: .......... 02
+Name: ........... #02 - 36&quot; Long 9/16&quot; Diameter Changeable Flip Tip Rod
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=290
+
+
+product_id: ..... 292
+model: .......... 20w
+Name: ........... #20w-   34&quot; Long 7/16&quot; Diameter Slow Bend, Shaved, Rounded Tip, T Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=292
+
+
+product_id: ..... 293
+model: .......... 33p
+Name: ........... #33p-   11&quot; Long 1/4&quot; Diameter Thin Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=293
+
+
+product_id: ..... 296
+model: .......... 36s
+Name: ........... #36s-   16&quot; Long 5/16&quot; Diameter Door Tool with 4&quot; of Kick with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=296
+
+
+product_id: ..... 297
+model: .......... 64w
+Name: ........... #64w- 25&quot; Long 3/8&quot; Diameter Shaved and Rounded Rod
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=297
+
+
+product_id: ..... 298
+model: .......... 68x
+Name: ........... #68x - 35&quot; Long 1/4&quot; Diameter Shaved 75deg. Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=298
+
+
+product_id: ..... 299
+model: .......... 69x
+Name: ........... #69x-  19&quot; Long 1/4&quot; Diameter Shaved Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=299
+
+
+product_id: ..... 301
+model: .......... 105
+Name: ........... #105-  35&quot; Long 7/16&quot; Diameter Ball Tip Rod
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=301
+
+
+product_id: ..... 302
+model: .......... 106x
+Name: ........... #106x- 26&quot; Long 1/4&quot; Diameter Shaved 80 Degree Flag with the X-tra Drive Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=302
+
+
+product_id: ..... 313
+model: .......... s-hook-PB30
+Name: ........... S Hook with O Ring
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=313
+
+
+product_id: ..... 314
+model: .......... s-hook-PB31
+Name: ........... S Hook with a Swivel
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=314
+
+
+product_id: ..... 317
+model: .......... kd-PB29
+Name: ........... Plastic Knockdown
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=317
+
+
+product_id: ..... 326
+model: .......... 203wt
+Name: ........... #203wt - Extendable Whale Tail
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=326
+
+
+product_id: ..... 336
+model: .......... 143w
+Name: ........... #143w - 23&quot; Long 7/16&quot; Diameter Fender Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=336
+
+
+product_id: ..... 343
+model: .......... 193w
+Name: ........... #193w - 30&quot; long 2 1/2&quot; Head Glue Cutter
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=343
+
+
+product_id: ..... 344
+model: .......... ext-2ext3/8
+Name: ........... 2 inch 3/8&quot; Diameter Extension for the Changeable Tipped Tools
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=344
+
+
+product_id: ..... 345
+model: .......... ext-1ext7/16
+Name: ........... 1 inch 7/16&quot; Diameter Extension for the Changeable Tip Tools
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=345
+
+
+product_id: ..... 346
+model: .......... tip-set-cptst
+Name: ........... Complete Set of Tips &amp; Extensions
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=346
+
+
+product_id: ..... 347
+model: .......... ext-2ext7/16
+Name: ........... 2 inch 7/16&quot; Diameter Extension for the Changeable Tipped Tools
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=347
+
+
+product_id: ..... 348
+model: .......... tip-3eights-SR
+Name: ........... 3/8&quot; Steel Ball Tip with Rubber Cap
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=348
+
+
+product_id: ..... 349
+model: .......... tip-ft
+Name: ........... 1 inch Polished Flat Tip
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=349
+
+
+product_id: ..... 350
+model: .......... tip-1/2ft
+Name: ........... 1/2 inch Polished Flat Tip
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=350
+
+
+product_id: ..... 351
+model: .......... ext-1ext3/8
+Name: ........... 1 inch 3/8&quot; Diameter Extension for the Changeable Tipped Tools
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=351
+
+
+product_id: ..... 352
+model: .......... set-MTsetof5
+Name: ........... MT Rod Set of 5 My-T Tough Sharp Tools
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=352
+
+
+product_id: ..... 353
+model: .......... wg-stainless
+Name: ........... Stainless Steel Window Guard
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=353
+
+
+product_id: ..... 355
+model: .......... set-3dt
+Name: ........... Ultimate Door Tool Trio
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=355
+
+
+product_id: ..... 356
+model: .......... set-2dt
+Name: ........... Ultimate Door Tool Pair
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=356
+
+
+product_id: ..... 357
+model: .......... set-X-Caliber
+Name: ........... Trio of X-Calibers
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=357
+
+
+product_id: ..... 358
+model: .......... set-3whaletail
+Name: ........... 3&quot; Long Whale Tail Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=358
+
+
+product_id: ..... 359
+model: .......... set-6whaletail
+Name: ........... 6&quot; Long Whale Tail Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=359
+
+
+product_id: ..... 360
+model: .......... set-8whaletail
+Name: ........... 8&quot; Long Whale Tail Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=360
+
+
+product_id: ..... 361
+model: .......... set-18whaletail
+Name: ........... 18&quot; Whale Tail Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=361
+
+
+product_id: ..... 362
+model: .......... set-28whaletail
+Name: ........... 30&quot; Whale Tail Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=362
+
+
+product_id: ..... 363
+model: .......... 183a
+Name: ........... #183a - 13&quot; Long 1/4&quot; Diameter Buddy Tool with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=363
+
+
+product_id: ..... 364
+model: .......... set-tri
+Name: ........... Trio of Tri-Picks
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=364
+
+
+product_id: ..... 365
+model: .......... 190w
+Name: ........... #190w - 40&quot; Long 1/2&quot; Diameter Single Bend Changeable Tipped Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=365
+
+
+product_id: ..... 366
+model: .......... 53w
+Name: ........... #53w - 35&quot; Long 1/2&quot; Diameter Double Bend Changeable Tipped Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=366
+
+
+product_id: ..... 368
+model: .......... 192wdb
+Name: ........... #192wdb - 51&quot; Long 5/8&quot; Diameter Double Bend Changeable Tip Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=368
+
+
+product_id: ..... 369
+model: .......... 194
+Name: ........... #194 - 47&quot; Long 9/16&quot; Diameter Double Bend Changeable Tipped Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=369
+
+
+product_id: ..... 370
+model: .......... 187a
+Name: ........... #187a - 48&quot; Long 1/4&quot; Diameter Roof Brace Flag with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=370
+
+
+product_id: ..... 371
+model: .......... 188
+Name: ........... #188 - 68&quot; Long 5/16&quot; Diameter Roof Brace Flag with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=371
+
+
+product_id: ..... 373
+model: .......... ext-1ext1/2
+Name: ........... 1&quot; Long 1/2&quot; Diameter Extension
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=373
+
+
+product_id: ..... 374
+model: .......... ext-2ext1/2
+Name: ........... 2&quot; Long 1/2&quot; Diameter Extension
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=374
+
+
+product_id: ..... 375
+model: .......... ext-3ext12
+Name: ........... 3&quot; Long 1/2&quot; Diameter Extension
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=375
+
+
+product_id: ..... 376
+model: .......... ext-4ext1/2
+Name: ........... 4&quot; Long 1/2&quot; Diameter Extension
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=376
+
+
+product_id: ..... 377
+model: .......... ext-5ext1/2
+Name: ........... 5&quot; Long 1/2&quot; Diameter Extension
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=377
+
+
+product_id: ..... 382
+model: .......... 181
+Name: ........... #181 - 3&quot; Raised Hail Pistol
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=382
+
+
+product_id: ..... 383
+model: .......... 186
+Name: ........... #186 - 5&quot; Long Raised Hail Pistol
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=383
+
+
+product_id: ..... 385
+model: .......... 198
+Name: ........... #198 - 38&quot; Long 1 1/8&quot; Head Whale Tail
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=385
+
+
+product_id: ..... 387
+model: .......... 201
+Name: ........... #201- 70&quot; Long 5/8&quot; Diameter Slow Bend MT Roof Rod
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=387
+
+
+product_id: ..... 389
+model: .......... 193a
+Name: ........... #193a - 30&quot; Long 2 1/2&quot; Head Glue Cutter with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=389
+
+
+product_id: ..... 391
+model: .......... 38w
+Name: ........... #38w-   26&quot; Long 3/8&quot; Diameter Double Bend Tapered with a Welded T-handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=391
+
+
+product_id: ..... 393
+model: .......... flat-Bar-fbst
+Name: ........... 25&quot; Long Flat Bar
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=393
+
+
+product_id: ..... 395
+model: .......... 14mt
+Name: ........... #14mt-   14&quot; Long 1/4&quot; Diameter, Slow Bend, Sharp Tip
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=395
+
+
+product_id: ..... 399
+model: .......... 203gc
+Name: ........... #203gc - Extendable Glue Cutter
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=399
+
+
+product_id: ..... 400
+model: .......... 214w
+Name: ........... #214w - 20&quot; Long 3/8&quot; Diameter Changeable Tip Fender Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=400
+
+
+product_id: ..... 401
+model: .......... 214a
+Name: ........... #214a - 20&quot; Long 3/8&quot; Diameter Changeable Tip Fender Tool with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=401
+
+
+product_id: ..... 402
+model: .......... 216a
+Name: ........... #216a - 48&quot; Long 3/8&quot; Diameter Shaved 24&quot; with rounded sides 2 1/2&quot; 45 degree Flag with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=402
+
+
+product_id: ..... 403
+model: .......... 215
+Name: ........... #215- Knuckle Bar
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=403
+
+
+product_id: ..... 404
+model: .......... 209
+Name: ........... #209 -25&quot; Long Whale Tail with 1 1/8 Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=404
+
+
+product_id: ..... 405
+model: .......... 205
+Name: ........... #205 -10&quot; Flat Flag 1 1/4&quot; Foot Sharpened on the Leading Edge
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=405
+
+
+product_id: ..... 406
+model: .......... 206
+Name: ........... #206 - 20&quot; Flat Flag 1 1/4&quot; Foot Sharpened on the Leading Edge
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=406
+
+
+product_id: ..... 407
+model: .......... 207
+Name: ........... #207 -28&quot; Flat Flag 1 1/4&quot; Foot Sharpened on the Leading Edge
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=407
+
+
+product_id: ..... 408
+model: .......... 204
+Name: ........... #204 - 23&quot; Long 3/8&quot; Diameter Single Bend Changeable Tip Welded handle Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=408
+
+
+product_id: ..... 409
+model: .......... set-205-206-207
+Name: ........... Flat Flag Set of 3 - 205, 206, 207
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=409
+
+
+product_id: ..... 410
+model: .......... 212
+Name: ........... #212 -24&quot; Tapered Tip 3/8&quot; Diameter Single Bend Rod
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=410
+
+
+product_id: ..... 411
+model: .......... 154
+Name: ........... #154 - 7&quot; Long 3/16&quot; Diameter Hook T Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=411
+
+
+product_id: ..... 412
+model: .......... 155
+Name: ........... #155 - 7&quot; Long 3/16&quot; Diameter Hook T Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=412
+
+
+product_id: ..... 413
+model: .......... 156
+Name: ........... #156 - 11&quot; Long 1/4&quot; Diameter Hook T Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=413
+
+
+product_id: ..... 414
+model: .......... 192adb
+Name: ........... #192adb - 51&quot; Long 5/8&quot; Diameter Double Bend Interchangeable Tip Tool with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=414
+
+
+product_id: ..... 415
+model: .......... hammer-blending
+Name: ........... Blending Hammer with Wooden Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=415
+
+
+product_id: ..... 416
+model: .......... 213w
+Name: ........... #213w - 30&quot; Long 1/2&quot; Diameter Single Bend Changeable Tip Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=416
+
+
+product_id: ..... 418
+model: .......... 44w
+Name: ........... #44w- 25&quot; Long 3/8&quot; Diameter Buddy Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=418
+
+
+product_id: ..... 419
+model: .......... set-36-36s-36l
+Name: ........... Ultimate Door Tool Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=419
+
+
+product_id: ..... 421
+model: .......... 21p
+Name: ........... #21p- 23&quot; Long 5/16&quot; Diameter Slow Bend Shaved
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=421
+
+
+product_id: ..... 422
+model: .......... 29w
+Name: ........... #29w - 17 1/2&quot; Long 5/16&quot; Diameter 45°  Tapered Round Tip
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=422
+
+
+product_id: ..... 425
+model: .......... 52a
+Name: ........... #52a-   30&quot; Long 7/16&quot; Diameter Double Bend Changeable Tip Tool with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=425
+
+
+product_id: ..... 426
+model: .......... 53a
+Name: ........... #53a-  35&quot; Long 1/2&quot; Diameter Double Bend Interchangeable Tipped Tool with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=426
+
+
+product_id: ..... 427
+model: .......... 64a
+Name: ........... #64a - 25&quot; Long 3/8&quot; Diameter Shaved and Rounded Rod with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=427
+
+
+product_id: ..... 429
+model: .......... 36L
+Name: ........... #36L -36&quot; Long 5/16&quot; Diameter Door Tool with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=429
+
+
+product_id: ..... 435
+model: .......... 182
+Name: ........... #182 - 52&quot; Long 1 1/8&quot; Spade Whale Tail
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=435
+
+
+product_id: ..... 436
+model: .......... 183w
+Name: ........... #183w - 13&quot; Long 1/4&quot; Diameter Buddy Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=436
+
+
+product_id: ..... 437
+model: .......... 202a
+Name: ........... #202a - 30&quot; Long 7/16&quot; Diameter Buddy Tool with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=437
+
+
+product_id: ..... 438
+model: .......... 202w
+Name: ........... #202w -30&quot; Long 7/16&quot; Diameter Buddy Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=438
+
+
+product_id: ..... 439
+model: .......... 36R-S
+Name: ........... #36sr-   16&quot; Long 5/16&quot; Diameter Door Tool with 4&quot; of Kick with a reverse adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=439
+
+
+product_id: ..... 440
+model: .......... 36R
+Name: ........... #36r-  24&quot; Long 5/16&quot; Diameter Door Tool with a reverse adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=440
+
+
+product_id: ..... 441
+model: .......... 146sw
+Name: ........... #146sw - 23&quot; Long 5/16&quot; Diameter Double Bend Shaved
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=441
+
+
+product_id: ..... 444
+model: .......... 218
+Name: ........... #218 - Fulcrum Attachment
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=444
+
+
+product_id: ..... 445
+model: .......... 36-20
+Name: ........... #36-20 - 20&quot; Long 5/16&quot; Diameter Door Tool with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=445
+
+
+product_id: ..... 446
+model: .......... 185
+Name: ........... #185 -15&quot; Long 1/4&quot; Diameter Double Bend Hook Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=446
+
+
+product_id: ..... 447
+model: .......... 146w
+Name: ........... #146w - 29&quot; Long 3/8&quot; Diameter Double Bend Shaved
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=447
+
+
+product_id: ..... 448
+model: .......... 57a
+Name: ........... #57a- 16 1/2&quot; Long 1/4&quot; Diameter Double Bend Shaved with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=448
+
+
+product_id: ..... 450
+model: .......... 190a
+Name: ........... #190a - 40&quot; Long 1/2&quot; Diameter Single Bend Changeable Tipped Tool with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=450
+
+
+product_id: ..... 451
+model: .......... 01
+Name: ........... #01 -  48 3/4&quot; Long 9/16&quot; Diameter Flip Tip Rod
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=451
+
+
+product_id: ..... 452
+model: .......... 162
+Name: ........... #162 - 42&quot; Long 5/16&quot; Diameter 90 Degree Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=452
+
+
+product_id: ..... 453
+model: .......... 67u
+Name: ........... #67u- 20&quot; Long 3/8&quot; Diameter Flat Stock Flexible Universal Flag Welded T Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=453
+
+
+product_id: ..... 454
+model: .......... 63a
+Name: ........... #63a - 39&quot; Long 3/8&quot; Diameter 45°  Flag Shaved and Rounded with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=454
+
+
+product_id: ..... 455
+model: .......... 48w
+Name: ........... #48w- 20&quot; Long 5/16&quot; Diameter Buddy Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=455
+
+
+product_id: ..... 456
+model: .......... 217
+Name: ........... #217 - Transformer Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=456
+
+
+product_id: ..... 457
+model: .......... 185bb
+Name: ........... #185bb - 15&quot; Long 1/4&quot; Diameter Double Bend Tapered Hook Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=457
+
+
+product_id: ..... 458
+model: .......... 222
+Name: ........... #222 - Changeable Tip Flat Bar
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=458
+
+
+product_id: ..... 459
+model: .......... 68s
+Name: ........... #68s - 35&quot; Long 1/4&quot; Diameter Short Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=459
+
+
+product_id: ..... 460
+model: .......... 69s
+Name: ........... #69s- 19&quot; Long 1/4&quot; Diameter Short Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=460
+
+
+product_id: ..... 461
+model: .......... set-068s-069s
+Name: ........... 1/4&quot; Diameter Short Flag Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=461
+
+
+product_id: ..... 462
+model: .......... Wood-Paddle-wkdp
+Name: ........... Solid Wooden Heat Tempered Oak Knockdown Paddle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=462
+
+
+product_id: ..... 466
+model: .......... 223
+Name: ........... #223 - 35&quot; Long 3/8&quot; Diameter Tapered with an 8&quot; Foot
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=466
+
+
+product_id: ..... 469
+model: .......... 224
+Name: ........... #224 - 14&quot; Long Whale Tail with an 1 1/8&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=469
+
+
+product_id: ..... 470
+model: .......... 41L
+Name: ........... #41L-   24&quot; Long 5/16&quot; Diameter 70°  Shaved Sharp Tip Door Tool with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=470
+
+
+product_id: ..... 472
+model: .......... 104IT-L
+Name: ........... #104IT-L  Changeable Tip Blending Hammer
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=472
+
+
+product_id: ..... 473
+model: .......... set-104IT-104IT-L
+Name: ........... Changeable Tip Blending Hammer Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=473
+
+
+product_id: ..... 474
+model: .......... glue-gun-12v
+Name: ........... 12v Glue Gun
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=474
+
+
+product_id: ..... 475
+model: .......... hood-stand-FTHS
+Name: ........... Finesse Table Hood Stand
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=475
+
+
+product_id: ..... 476
+model: .......... kd-metal rounded knockdown
+Name: ........... Stainless Steel Rounded Knockdown
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=476
+
+
+product_id: ..... 477
+model: .......... 213wdb
+Name: ........... #213wdb - 30&quot; Long 1/2&quot; Diameter Double Bend Changeable Tip Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=477
+
+
+product_id: ..... 478
+model: .......... 56a
+Name: ........... #56a- 22&quot; Long 3/8&quot; Diameter Double Bend Shaved Knife Tip with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=478
+
+
+product_id: ..... 479
+model: .......... tip-rt
+Name: ........... 1 inch Polished Rounded Tip Hammer Head
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=479
+
+
+product_id: ..... 480
+model: .......... tip-wt
+Name: ........... Whale Tail Tip
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=480
+
+
+product_id: ..... 481
+model: .......... Walk-Platform
+Name: ........... Walk Platform
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=481
+
+
+product_id: ..... 483
+model: .......... kd-sr
+Name: ........... Black Plastic Knockdown
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=483
+
+
+product_id: ..... 484
+model: .......... 54a
+Name: ........... #54a-   23&quot; Long 3/8&quot; Diameter Double Bend Changeable Tip*
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=484
+
+
+product_id: ..... 485
+model: .......... 226L
+Name: ........... #226L - 24&quot; Long 5/16&quot; Diameter Door Tool Pair with adjustable handles
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=485
+
+
+product_id: ..... 486
+model: .......... 28w
+Name: ........... #28w - 25&quot; Long 5/16&quot; Diameter Tapered 45°  Sharp Tip with a welded handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=486
+
+
+product_id: ..... 487
+model: .......... 187w
+Name: ........... #187w - 48&quot; Long 1/4&quot; Diameter Roof Brace Flag with a welded handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=487
+
+
+product_id: ..... 488
+model: .......... 192asb
+Name: ........... #192asb - 53&quot; Long 5/8&quot; Diameter Single Bend Interchangeable Tip Tool with an adjustable handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=488
+
+
+product_id: ..... 490
+model: .......... 226S
+Name: ........... #226S - 16&quot; Long 5/16&quot; Diameter Door Tool Pair with adjustable handles
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=490
+
+
+product_id: ..... 491
+model: .......... hood-stand-levBar-lb
+Name: ........... Leverage Bar
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=491
+
+
+product_id: ..... 492
+model: .......... 231L
+Name: ........... #231L - 16&quot; Long 1/4&quot; Diameter Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=492
+
+
+product_id: ..... 493
+model: .......... 231s
+Name: ........... #231S - 10&quot; Long 1/4&quot; Diameter Flag
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=493
+
+
+product_id: ..... 494
+model: .......... 232mr
+Name: ........... 232MR - 24&quot; Long 7/16&quot; Diameter Buddy Tool with a welded handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=494
+
+
+product_id: ..... 495
+model: .......... 233mr
+Name: ........... 233MR - 36&quot; Long 9/16&quot; Diameter Buddy Tool with a welded handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=495
+
+
+product_id: ..... 505
+model: .......... hood-stand-levBar-lbhs
+Name: ........... Leverage Bar with accessories and brackets
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=505
+
+
+product_id: ..... 506
+model: .......... 242
+Name: ........... #242 - 10&quot; Long Whale Tail with a 2&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=506
+
+
+product_id: ..... 507
+model: .......... 243
+Name: ........... #243 - 20&quot; Long Whale Tail with 2&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=507
+
+
+product_id: ..... 508
+model: .......... 244
+Name: ........... #244 - 30&quot; Long Whale Tail with a 2&quot; Spade
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=508
+
+
+product_id: ..... 509
+model: .......... 226XL
+Name: ........... #226XL - 36&quot; Long 5/16&quot; Diameter Door Tool Pair with adjustable handles
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=509
+
+
+product_id: ..... 512
+model: .......... tc-hs
+Name: ........... Finesse Transformer Tool Cart/Hood Stand
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=512
+
+
+product_id: ..... 513
+model: .......... tc-MTC
+Name: ........... Finesse Mini Transformer Tool Cart
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=513
+
+
+product_id: ..... 514
+model: .......... 213a
+Name: ........... #213a - 30&quot; Long 1/2&quot; Diameter Single Bend Changeable Tip Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=514
+
+
+product_id: ..... 518
+model: .......... 262
+Name: ........... #262 - 19&quot; Long 3/8&quot; Diameter, No-Bend(straight) Changeable Tip Tempered Rod
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=518
+
+
+product_id: ..... 519
+model: .......... 263
+Name: ........... #263 - 19&quot; Long 3/8&quot; Diameter No-Bend(straight) Changeable Tip Bendable Rod
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=519
+
+
+product_id: ..... 520
+model: .......... 260
+Name: ........... #260 - 19&quot; Long 3/8&quot; Diameter Changeable Tip &quot;Universal&quot; Rod
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=520
+
+
+product_id: ..... 521
+model: .......... 261
+Name: ........... #261 - 19&quot; Long 3/8&quot; Diameter Changeable Tip Unhardened Bendable Rod
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=521
+
+
+product_id: ..... 522
+model: .......... 250
+Name: ........... #250 Carbon Fiber Forty Two
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=522
+
+
+product_id: ..... 523
+model: .......... 251
+Name: ........... #251 Carbon Fiber Forty Eight
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=523
+
+
+product_id: ..... 524
+model: .......... 248
+Name: ........... #248 24&quot; 3/8&quot; Double Bend Fender lip tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=524
+
+
+product_id: ..... 525
+model: .......... glue-stick-GG-10
+Name: ........... #GG-10 Cactus Green Glue
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=525
+
+
+product_id: ..... 526
+model: .......... glue-stick-PBG-10
+Name: ........... #PBG-10 Pink Bubble Gum Glue
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=526
+
+
+product_id: ..... 527
+model: .......... glue-stick-XPG-10
+Name: ........... #XPG-10 Plain Jane Xtreme Purple Glue
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=527
+
+
+product_id: ..... 528
+model: .......... glue-stick-OFG-10
+Name: ........... #OFG-10 Orange Fire Glue
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=528
+
+
+product_id: ..... 529
+model: .......... glue-stick-ABG-10
+Name: ........... #ABG-10 Anson PDR Black Glue
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=529
+
+
+product_id: ..... 530
+model: .......... glue-stick-WG-10
+Name: ........... Anson White Glue  #WG-10
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=530
+
+
+product_id: ..... 531
+model: .......... tab-RBGT-V
+Name: ........... #RBGT-V Root Beer Tabs - 8PC Variety
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=531
+
+
+product_id: ..... 532
+model: .......... tab-RBGT-11.5-5
+Name: ........... #RBGT-11.5-5 Root Beer PDR Glue Tab
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=532
+
+
+product_id: ..... 534
+model: .......... tab-RBGT-17-5
+Name: ........... #RBGT-17-5 Root Beer 17mm Tab 5 Pc
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=534
+
+
+product_id: ..... 535
+model: .......... tab-RBGT-18-5
+Name: ........... #RBGT-18-5 Root Beer Glue Tab 18mm 5pc
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=535
+
+
+product_id: ..... 536
+model: .......... tab-RBGT-20-5
+Name: ........... #RBGT-20-5 Root Beer 20mm Tabs 5pc
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=536
+
+
+product_id: ..... 537
+model: .......... tab-RBGT-22-5
+Name: ........... #RBGT-22-5 Root Beer Glue Tab 22mm 5pc
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=537
+
+
+product_id: ..... 538
+model: .......... tab-RBGT-26-5
+Name: ........... #RBGT-26-5 Root Beer Glue Tab 22mm 5pc
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=538
+
+
+product_id: ..... 539
+model: .......... tab-RBGT-30-5
+Name: ........... #RBGT-30-5 Root Beer Glue Tab 30mm 5pc
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=539
+
+
+product_id: ..... 540
+model: .......... tab-set-AU.O-V-16
+Name: ........... #AU.O-V-16  Aussie PDR Slick Faced Variety pk
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=540
+
+
+product_id: ..... 541
+model: .......... tab-set-AU.SO-V-8
+Name: ........... #AU.SO-V-8  Aussie PDR Slick Faced Variety Pk
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=541
+
+
+product_id: ..... 542
+model: .......... tab-set-AU.GO-V8
+Name: ........... #AU.GO-V8  Aussie Bloody Orange Grooved Variety 8pc
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=542
+
+
+product_id: ..... 543
+model: .......... set-glue-stick-DTC
+Name: ........... #DTC Dream Team Combo
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=543
+
+
+product_id: ..... 544
+model: .......... tip-PJRB-tip-V
+Name: ........... #PJ-TIP  Root Beer Ultem Variety Pack Screw on Tips for Tap Down
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=544
+
+
+product_id: ..... 545
+model: .......... door-strap-Purple
+Name: ........... Purple Plain Jane Door Strap
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=545
+
+
+product_id: ..... 547
+model: .......... tc-jm
+Name: ........... Fold-N-Go Tool Cart
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=547
+
+
+product_id: ..... 548
+model: .......... glue-tray-LA
+Name: ........... Large Glue Tray
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=548
+
+
+product_id: ..... 549
+model: .......... 245
+Name: ........... #245 - 26&quot;, 3/8&quot; Diameter Door Tool, Slow Bend, and the MT Sharp Tip, and 5&quot; Foot, Adjustable Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=549
+
+
+product_id: ..... 550
+model: .......... 36XS
+Name: ........... #36XS - 12&quot; Long 5/16&quot; Diameter Shaved slow bend Door Tool with Adjustable Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=550
+
+
+product_id: ..... 551
+model: .......... glue-tray-LP
+Name: ........... Large Plastic Glue Tray
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=551
+
+
+product_id: ..... 553
+model: .......... 245r
+Name: ........... #245R - 26, 3/8&quot; Diameter Door Tool, Slow Bend, and the MT Sharp Tip, and 5&quot; Foot, Reverse Adjustable Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=553
+
+
+product_id: ..... 561
+model: .......... light-corded
+Name: ........... Eagle Eyes Mini PDR LED Light
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=561
+
+
+product_id: ..... 562
+model: .......... light-battery
+Name: ........... Eagle Eyes Battery Powered Mini PDR LED Light
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=562
+
+
+product_id: ..... 564
+model: .......... glue-dent-lifter-kit
+Name: ........... The DENT LIFTER Kit
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=564
+
+
+product_id: ..... 565
+model: .......... hammer-chrome-slide
+Name: ........... Chrome Slide Hammer
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=565
+
+
+product_id: ..... 566
+model: .......... 271JH
+Name: ........... #271JH - 19&quot; long 7/16&quot; Diameter Triple Bend &quot;Highley Tri-Pick&quot;
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=566
+
+
+product_id: ..... 567
+model: .......... 270JH
+Name: ........... #270JH - 19&quot; long 3/8 Diameter Double Bend &quot;Highley Talon&quot;
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=567
+
+
+product_id: ..... 568
+model: .......... set-John-Highley-Tactical-58pc
+Name: ........... John Highley Master Tactical 58 Piece Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=568
+
+
+product_id: ..... 569
+model: .......... set-John-Highley-19pc
+Name: ........... John Highley Basic Tactical 19 piece Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=569
+
+
+product_id: ..... 570
+model: .......... 36B
+Name: ........... #36B - 24&quot; long  5/16&quot; Diameter Door Tool with an adjustable handle and ball tip
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=570
+
+
+product_id: ..... 571
+model: .......... 245s
+Name: ........... #245s - 18&quot;, 3/8&quot; Diameter Door Tool, Slow Bend, and the MT Sharp Tip, and 5&quot; Foot, Adjustable Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=571
+
+
+product_id: ..... 572
+model: .......... 245xl
+Name: ........... #245xl - 36&quot;, 3/8&quot; Diameter Door Tool, Slow Bend, and the MT Sharp Tip, and 5&quot; Foot, Adjustable Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=572
+
+
+product_id: ..... 573
+model: .......... 249
+Name: ........... #249 - 28&quot; long 1/2&quot; Diameter Door Tool Slow Bend and a Shaved Rounded Tip
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=573
+
+
+product_id: ..... 574
+model: .......... 247
+Name: ........... #247 - 14&quot; Long 1/4&quot; Diameter Shaved slow bend Door Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=574
+
+
+product_id: ..... 575
+model: .......... set-Arkansas-Toothpick
+Name: ........... Arkansas Toothpick Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=575
+
+
+product_id: ..... 576
+model: .......... 255
+Name: ........... #255 - 6&quot; long, 3/16 diameter, sharp Inline pick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=576
+
+
+product_id: ..... 577
+model: .......... 256
+Name: ........... #256 - 12&quot; long, 1/4 diameter, sharp inline pick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=577
+
+
+product_id: ..... 578
+model: .......... 257
+Name: ........... #257 - 18&quot; long, 5/16 diameter, sharp inline pick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=578
+
+
+product_id: ..... 579
+model: .......... 258
+Name: ........... #258 - 24&quot; long, 3/8 diameter, sharp pick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=579
+
+
+product_id: ..... 580
+model: .......... 259
+Name: ........... #259 - 30&quot; long, 7/16 diameter, sharp Inline pick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=580
+
+
+product_id: ..... 581
+model: .......... set-Moonshine-Run
+Name: ........... Moonshine Run Set
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=581
+
+
+product_id: ..... 582
+model: .......... Catalog
+Name: ........... Catalog
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=582
+
+
+product_id: ..... 583
+model: .......... set-White-Lightning
+Name: ........... White Lightning Set -- 76, 77, 78
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=583
+
+
+product_id: ..... 584
+model: .......... 254
+Name: ........... #254 - 43&quot; long, 1/2 diameter, sharp Inline pick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=584
+
+
+product_id: ..... 585
+model: .......... 253
+Name: ........... #253 - 53&quot; long, 9/16 diameter, sharp Inline pick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=585
+
+
+product_id: ..... 586
+model: .......... 252
+Name: ........... #252 - 70&quot; long, 5/8 diameter, sharp Inline pick
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=586
+
+
+product_id: ..... 588
+model: .......... tip-r
+Name: ........... Rubber Soft Tip Cap
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=588
+
+
+product_id: ..... 589
+model: .......... 52wsb
+Name: ........... #52wsb - 30&quot; Long 7/16&quot; Diameter Single Bend Changeable Tip Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=589
+
+
+product_id: ..... 590
+model: .......... 39w
+Name: ........... #39w - 27&quot; Long 3/8&quot; Diameter Slow 75°   Bend with a Welded Handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=590
+
+
+product_id: ..... 591
+model: .......... 27w
+Name: ........... #27w - 30&quot; Long 5/16&quot; Diameter Double Bend Shaved with an Welded handle
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=591
+
+
+product_id: ..... 593
+model: .......... glue-stick-PSB-10
+Name: ........... #PSB-10 Swiss Blue Glue
+Permalink: ...... https://www.pdrfinessetools.com/Assorted?product_id=593
+
+
+product_id: ..... 594
+model: .......... set-Kidders-Top-Picks
+Name: ........... Kidder’s Top Picks
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=594
+
+
+product_id: ..... 595
+model: .......... 193mrs
+Name: ........... #193MRS - 24&quot; long  1&quot; Wide Spade, &quot;Marty Runik&quot; Glue Cutter
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=595
+
+
+product_id: ..... 596
+model: .......... 204a
+Name: ........... #204a -23&quot; Long 3/8&quot; Diameter Single Bend Changeable Tip Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=596
+
+
+product_id: ..... 597
+model: .......... 190wdb
+Name: ........... #190wdb - 40&quot; Long 1/2&quot; Diameter Double Bend Changeable Tipped Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=597
+
+
+product_id: ..... 598
+model: .......... 144
+Name: ........... 144 - 16&quot; Long  5/16&quot; Diameter Single Bend with a 2, 1/2&quot; Deep Shaved Hook
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=598
+
+
+product_id: ..... 599
+model: .......... 194asb
+Name: ........... #194asb - 47&quot; Long 9/16&quot; Diameter Single Bend Changeable Tipped Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=599
+
+
+product_id: ..... 600
+model: .......... 194sb
+Name: ........... #194sb - 47&quot; Long 9/16&quot; Diameter Single Bend Changeable Tipped Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=600
+
+
+product_id: ..... 601
+model: .......... 305
+Name: ........... #305 - 48&quot; long  1/2&quot; Diameter Triple Bend Shaved Buddy Tool
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=601
+
+
+product_id: ..... 602
+model: .......... set-BUSHWACKERS
+Name: ........... THE BUSHWACKERS
+Permalink: ...... https://www.pdrfinessetools.com/Finesse?product_id=602
+
+
